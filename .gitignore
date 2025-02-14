@@ -1,0 +1,9 @@
+# Cmake output
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+Makefile
+
+# Program output
+*.msh
