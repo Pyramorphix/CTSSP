@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 
 
     // Define le longueur caractéristique
-    double lc = 1e-1;
+    double lc = 0.05;
 
 
     // Parameters
