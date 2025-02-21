@@ -17,3 +17,15 @@ make
 
 ## Создание анимации
 Наконец, в ParaView были созданы анимации вращения модели: в 2D-проекции с визуализацией поля, в 3D без визуализации поля, и в 3D с визуализацией поля и срезом. Результаты можно видеть на видео:
+
+
+https://github.com/user-attachments/assets/5675fbb7-58d3-4220-88cb-2647ddec5e8c
+
+
+
+https://github.com/user-attachments/assets/ed7fcb2e-cf6f-4d5f-80df-f43ec32b5279
+
+
+
+https://github.com/user-attachments/assets/9ecefbe7-0750-4a1f-8163-3be2a91b50c3
+
