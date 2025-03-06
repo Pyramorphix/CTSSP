@@ -5,8 +5,8 @@ add_executable(cylinder cylinder.cpp)
 
 add_library(gmsh SHARED IMPORTED)
 set_target_properties(gmsh PROPERTIES
-    IMPORTED_LOCATION "/usr/lib/libgmsh.so"
-    INTERFACE_INCLUDE_DIRECTORIES "/usr/include"
+    IMPORTED_LOCATION "/usr/local/lib/libgmsh.so"
+    INTERFACE_INCLUDE_DIRECTORIES "/usr/local/include"
 )
 set(GMSH_LIBRARIES gmsh)
 

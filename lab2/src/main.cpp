@@ -397,6 +397,10 @@ int main() {
     Mesh mesh(points_coords, *tetrs_points_tags);
 
 
+    // Write it to a file
+    gmsh::write("knot.msh");
+
+
     // Bye, gmsh!
     gmsh::finalize();
 
